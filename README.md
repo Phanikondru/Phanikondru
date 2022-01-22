@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Phanikondru
-- 👀 I’m interested in ... Android Development
-- 🌱 I’m currently learning ... Kotlin and Android
-- 💞️ I’m looking to collaborate on ... Android and Kotlin
+- 👀 I’m interested in ... UX/UI Design, Web and App Development
+- 🌱 I’m currently learning ... HTML,CSS,KOTLIN
+- 💞️ I’m looking to collaborate on ... WEB and APP Development Projects
 - 📫 How to reach me ... @PhanindhraKondru[LinkedIn and Instagram]
 
 <!---
