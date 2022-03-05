@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Phanikondru
 - 👀 I’m interested in ... UX/UI Design, Web and App Development
-- 🌱 I’m currently learning ... HTML,CSS,KOTLIN
+- 🌱 I’m currently learning ... FULL-STACK WEB DEVELOPMENT
 - 💞️ I’m looking to collaborate on ... WEB and APP Development Projects
 - 📫 How to reach me ... @PhanindhraKondru[LinkedIn and Instagram]
 
