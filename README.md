@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Phanikondru
-- 👀 I’m interested in ... UX/UI Design & App Development
-- 🌱 I’m currently learning ... ANDROID KOTLIN DEVELOPMENT
-- 💞️ I’m looking to collaborate on ... APP Development Projects
+- 👀 I’m interested in ... UX/UI Design, Web Development, App Development, ML kit, AR/VR/XR
+- 🌱 I’m currently learning ... Web Development
+- 💞️ I’m looking to collaborate on ... UX/UI Design and Web Development
 - 📫 How to reach me ... @PhanindhraKondru[LinkedIn and Instagram]
 
 <!---
